@@ -1,0 +1,128 @@
+maruti800
+796cc
+20km/liter
+grey
+0
+37_hoursepower_and_59Nm_of_torque
+2.5_lakh_rupees
+250000
+alto
+796cc
+22.05km/liter
+grey
+1
+47_hoursepower_and_69Nm_of_torque
+3_lakh_rupees
+300000
+wagonr
+998cc
+20km/liter
+Silver
+2
+67_horsepower_and_90Nm_of torque
+4.5_lakh_rupees
+450000
+brezza
+1462cc
+17km/liter
+Dark_blue
+2
+67_horsepower_and_90Nm_of torque
+4.5_lakh_rupees
+450000
+tiago
+1199cc
+23.84km/liter
+blue
+2
+84_horsepower_and_113Nm_of torque
+5_lakh_rupees
+500000
+harrier
+1956cc
+16km/liter
+black
+4
+168_horsepower_and_350Nm_of torque
+14_lakh_rupees
+1400000
+altroz
+1199cc
+19.05km/liter
+red
+2
+85_horsepower_and_113Nm_of torque
+5.5_lakh_rupees
+550000
+safari
+1956cc
+16.14km/liter
+Royal_blue
+5
+168_horsepower_and_350Nm_of torque
+17_lakh_rupees
+1700000
+bolero
+1493cc
+16.7km/liter
+lakeside-brown
+0
+75_horsepower_and_210Nm_of torque
+8.5_lakh_rupees
+850000
+thar
+1997cc
+15.2km/liter
+black
+2
+130_horsepower_and_300Nm_of torque
+12_lakh_rupees
+1200000
+scorpion
+2179cc
+15km/liter
+black
+2
+138_horsepower_and_320Nm_of torque
+12.5_lakh_rupees
+1250000
+xuv300
+1199cc
+17km/liter
+black
+2
+109_horsepower_and_200Nm_of torque
+10_lakh_rupees
+1000000
+velar
+1997cc
+13km/liter
+blue
+2
+247_horsepower_and_365Nm_of torque
+90_lakh_rupees
+9000000
+defender
+1997cc
+14.01km/liter
+White
+5
+296_horsepower_and_400Nm_of torque
+1_crore_rupees
+10000000
+sport
+2996cc
+13km/liter
+Grey
+5
+334_horsepower_and_59Nm_of torque
+1.5_crore_rupees
+15000000
+discovery
+1997cc
+13.2km/liter
+Grey
+5
+396_horsepower_and_400Nm_of torque
+80_lakh_rupees
+8000000
